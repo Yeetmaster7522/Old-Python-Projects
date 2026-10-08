@@ -1,2 +1,4 @@
 # Old-Python-Projects
 A random assortment of projects that I did in the past
+
+Projects may not run or are not fully functional.
