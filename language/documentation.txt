@@ -1,0 +1,41 @@
+--------------
+01/03/25
+Read through praw documentation and watched tutorials on how to use it.
+Created a little prototype and played around with the api.
+--------------
+02/03/25
+Created a proper program to get information and ran it for a couple hours.
+For now, it will be getting 10,000 posts from r/Minecraft
+It got around 200 posts.
+--------------
+03/03/25
+Ran the program some more and added more debugging tools and sprinkled comments around the code.
+At the end of the day, it got around 870 posts by running for 5 hours.
+--------------
+04/03/25
+Got around 10,000 posts in the minecraft subreddit.
+Added more debugging tools and changed comments.
+Started getting posts from r/PhoenixSC and planning to get posts from r/AskReddit.
+To maximise amount of data within least amount of time, planning to run while in school and/or having some sort of multi-processing
+--------------
+05/03/25
+Finished looking through PhoenixSC and got permission to run it through the night
+askreddit taking 30 min to load a post at first and having lots of 429 HTTP response errors
+--------------
+06/03/25
+Still getting data from askreddit
+Luckily, posts are now taking around 10 min to load now
+--------------
+08/03/25
+moving on from askreddit cause it take too long
+r/funny will take around 3 days to get all 1000 posts but its much better than 8 days with a lot of data being lost due to 429 HTTP response errors
+r/funny has great consistensy and good rate of 12/hr
+--------------
+09/03/25
+reached 1GB checkpoint!!!! I finally have a gb of data
+--------------
+13/03/25
+lost about 0.5GB of data overnight because something happened during the night. Luckily I had a backup from when it reached a GB in size so I reverted back to that version
+--------------
+17/03/25
+removed identation from data to minimize size while still keeping ascii

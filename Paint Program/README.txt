@@ -1,0 +1,1 @@
+laidback_painting.wav and start_program.wav should not be deleted and is used in the program

@@ -1,0 +1,99 @@
+{
+    "domains": [
+        ".com",
+        ".net",
+        ".org",
+        ".ru",
+        ".uk",
+        ".jp",
+        ".br",
+        ".fr",
+        ".au",
+        ".in",
+        ".pl",
+        ".nl",
+        ".ca",
+        ".ua",
+        ".ir",
+        ".cz",
+        ".es",
+        ".de",
+        ".it",
+        ".co"
+    ],
+    "commands": {
+        "search": [
+            "search",
+            "inquire",
+            "investigate",
+            "survey",
+            "scout",
+            "forage",
+            "find",
+            "scan",
+            "locate",
+            "comb",
+            "examine",
+            "scour",
+            "discover",
+            "rummage",
+            "dredge",
+            "dig",
+            "sort",
+            "check",
+            "ascertain",
+            "determine",
+            "get"
+        ],
+        "open": [
+            "open",
+            "execute",
+            "run",
+            "perform",
+            "do",
+            "operate"
+        ],
+        "freeze": [
+            "freeze",
+            "stop",
+            "halt",
+            "stay",
+            "move"
+        ],
+        "unfreeze": [
+            "unfreeze"
+        ],
+        "add": [
+            "add",
+            "append",
+            "join",
+            "link"
+        ],
+        "set": [
+            "set"
+        ],
+        "reset": [
+            "reset"
+        ],
+        "help": [
+            "commands",
+            "help"
+        ]
+    },
+    "farewells": [
+        "bye",
+        "goodbye",
+        "shut down"
+    ],
+    "misc": {
+        "steps": 200,
+        "speech_rate": 200,
+        "voice": 0,
+        "explore": true,
+        "max_tabs": 10,
+        "give_up_tabs": 10,
+        "bookmarks": {
+        },
+        "load_apps": false
+    }
+}

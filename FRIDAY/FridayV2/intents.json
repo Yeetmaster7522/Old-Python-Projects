@@ -1,0 +1,21 @@
+{
+    "openProgram": [
+        "open"
+    ],
+    "closeProgram": [
+        "close",
+        "shut down",
+        "stop",
+        "end",
+        "suspend"
+    ],
+    "restartProgram": [
+        "restart",
+        "reboot",
+        "begin again",
+        "start again",
+        "renew",
+        "reset",
+        "refresh"
+    ]
+}
